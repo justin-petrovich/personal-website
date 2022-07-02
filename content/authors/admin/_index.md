@@ -1,49 +1,46 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include functional and longitudinal data analysis, applied statistics, and statistics education.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Statistics
+    institution: Pennsylvania State University
+    year: 2018
+  - course: BS in Mathematics and Finance
+    institution: Saint Vincent College
+    year: 2014
+email: justin.petrovich@stvincent.edu
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Functional data analysis
+- Longitudinal data analysis
+- Applied statistics
+- Statistics education
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Saint Vincent College
+  url: https://www.stvincent.edu/
+role: Assistant Professor of Business Statistis and Data Analytics
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=DeSD2GQAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/justin-petrovich
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/justin-petrovich-6002b383/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Justin-Petrovich
 superuser: true
-title: Nelson Bighetti
+title: Justin Petrovich
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Justin Petrovich is an assistant professor of business statistics and business data analytics in the Business Administration Department at Saint Vincent College. He enjoys teaching a variety of classes ranging from introductory business statistics to econometrics to courses in data science and business analytics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include developing methods for functional and longitudinal data analys, applied statistics, and statistics education. His past and current research projects span medicine, psychological counseling, and economics. Recently, he has begun statistical consulting projects as well and enjoys involving his students in both his research and consulting work.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
