@@ -1,37 +1,29 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: In economic theory, labor supply elasticities measure a person's response, in terms of hours worked, to a change in that person's hourly wage. Labor supply elasticities signal attitudes about working which can contribute to policy decisions. In this project, we show how to estimate labor supply elasticities using an instrumental variables estimator in functional concurrent regression models. Though some recent works have adapted instrumental variables estimation to functional regression models, they have focused on scalar-on-function and function-on-function regression models. Our estimation method is novel in that it applies to functional concurrent regression with longitudinal, or sparsely observed functional data. We illustrate the accuracy of our estimation strategy through a detailed simulation study and apply it to data from the Current Population Survey to estimate labor supply elasticities for different demographic groups of the U.S. population.
 address:
-  city: Stanford
+  city: Washington, D.C.
   country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  postcode: "20001"
+  region: 
+  street: 801 Mount Vernon Place NW
 all_day: false
 authors: []
-date: "2022-07-01"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2022-08-11T08:00:00Z"
+date_end: "2022-08-11T10:20:00Z"
+event: Joint Statistical Meetings
+event_url: https://ww2.amstat.org/meetings/jsm/2022/index.cfm
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+location: Walter E. Washington Convention Center
 projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: 
 tags: []
-title: Example Talk
+title: Sparse Functional Concurrent Regression with Instrumental Variables
 url_code: ""
 url_pdf: ""
 url_slides: ""
