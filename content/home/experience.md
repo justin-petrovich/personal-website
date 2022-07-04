@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Assistant Professor of Statistics and Business Data Analytics
     company: Saint Vincent College
-    company_url: ''
+    company_url: 'https://www.stvincent.edu/'
     company_logo: SVC-shield-2
     location: Latrobe, Pennsylvania
     date_start: '2018-08-01'
@@ -32,15 +32,14 @@ experience:
 
   - title: Research Assistant
     company: Center for Collegiate Mental Health
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://ccmh.psu.edu/'
     location: University Park, Pennsylvania
     date_start: '2016-06-01'
     date_end: '2018-06-30'
     
   - title: Graduate Assistant
     company: Pennsylvania State University, Statistics Department
-    company_url: ''
+    company_url: 'https://science.psu.edu/stat'
     company_logo: PSU-logo
     location: University Park, Pennsylvania
     date_start: '2014-08-01'
