@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Saint Vincent College
   url: https://www.stvincent.edu/
-role: Assistant Professor of Business Statistics and Data Analytics
+role: Assistant Professor of Statistics and Business Data Analytics
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,8 +39,8 @@ superuser: true
 title: Justin Petrovich
 ---
 
-I am an assistant professor of business statistics and business data analytics in the Business Administration Department at Saint Vincent College. I enjoy teaching a variety of classes ranging from introductory business statistics to econometrics to courses in data science and business analytics.
+I am an assistant professor of statistics and business data analytics in the Business Administration Department at Saint Vincent College. I enjoy teaching a variety of classes ranging from introductory business statistics to econometrics to courses in data science and business analytics.
 
-My research interests include developing methods for functional and longitudinal data analysis, applied statistics, and statistics education. His past and current research projects span medicine, psychological counseling, and economics. Recently, I have begun statistical consulting projects as well and enjoy involving students in both my research and consulting work.
+My research interests include developing methods for functional and longitudinal data analysis, applied statistics, and statistics education. My past and current research projects span a variety of fields, including medicine, psychological counseling, and economics. Recently, I have begun statistical consulting projects as well and enjoy involving students in both my research and consulting work.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
