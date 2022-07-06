@@ -17,10 +17,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 location: Walter E. Washington Convention Center
-projects:
-- example
+projects: 
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides:
 summary: 
 tags: []
 title: Sparse Functional Concurrent Regression with Instrumental Variables
