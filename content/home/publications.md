@@ -39,3 +39,4 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+I will happily provide a PDF of any published paper upon request.
