@@ -13,9 +13,7 @@ date_end: "2022-08-11T10:20:00Z"
 event: Joint Statistical Meetings
 event_url: https://ww2.amstat.org/meetings/jsm/2022/index.cfm
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+image: 
 location: Walter E. Washington Convention Center
 projects: 
 publishDate: "2017-01-01T00:00:00Z"
