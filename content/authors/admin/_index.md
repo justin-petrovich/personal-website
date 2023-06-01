@@ -39,8 +39,8 @@ superuser: true
 title: Justin Petrovich
 ---
 
-I am an assistant professor of statistics and business data analytics in the Business Administration Department at Saint Vincent College. I enjoy teaching a variety of classes ranging from introductory business statistics to econometrics to courses in data science and business analytics.
+I am an assistant professor of statistics and business data analytics at Saint Vincent College. I enjoy teaching classes ranging from introductory business statistics to econometrics to courses in data science and business analytics. Recently, I became the Chair of the Marketing, Analytics, and Global Commerce Department, affectionately known as the MAGIC Department.
 
-My research interests include developing methods for functional and longitudinal data analysis, applied statistics, and statistics education. My past and current research projects span a variety of fields, including medicine, psychological counseling, and economics. Recently, I have begun statistical consulting projects as well and enjoy involving students in both my research and consulting work.
+My research focuses on developing and applying methods for functional and longitudinal data. My past and current research projects span a variety of fields, including medicine, psychological counseling, and economics. I also work as a statistical consultant and enjoy the variety of challenges I encounter between my research and consulting projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
