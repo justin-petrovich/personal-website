@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Chairperson, Department of Marketing, Analytics, and Global Commerce
+    company: Saint Vincent College
+    company_url: 'https://www.stvincent.edu/'
+    company_logo: SVC-shield-2
+    location: Latrobe, Pennsylvania
+    date_start: '2022-09-01'
+    date_end: ''
+    
   - title: Assistant Professor of Statistics and Business Data Analytics
     company: Saint Vincent College
     company_url: 'https://www.stvincent.edu/'
