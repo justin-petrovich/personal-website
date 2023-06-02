@@ -389,6 +389,8 @@ collections:
           - { label: "Book section", value: "6" }
           - { label: "Thesis", value: "7" }
           - { label: "Patent", value: "8" }
+          - { label: "Essay", value: "9" }
+          - { label: "Book Review", value: "10" }
       - label: "Authors"
         name: "authors"
         required: true
