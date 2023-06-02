@@ -24,7 +24,7 @@ tags: []
 title: "A comparison of treatment response between college students with and without suicide risk at university counseling centers"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "rallis-2023-treatment.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
