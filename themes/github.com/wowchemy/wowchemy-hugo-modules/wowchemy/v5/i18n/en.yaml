@@ -197,6 +197,12 @@
 
 - id: pub_patent
   translation: Patent
+  
+- id: pub_essay
+  translation: Essay
+  
+- id: pub_book_review
+  translation: Book Review
 
 # Project details
 
