@@ -25,7 +25,7 @@ tags: []
 title: "Scalar-on-Function Regression for Predicting Distal Outcomes from Intensively Gathered Longitudinal Data: Interpretability for Applied Scientists"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "dziak-2019-scalar.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
