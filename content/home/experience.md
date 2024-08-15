@@ -30,13 +30,21 @@ experience:
     date_start: '2022-09-01'
     date_end: ''
     
+  - title: Associate Professor of Statistics and Business Data Analytics
+    company: Saint Vincent College
+    company_url: 'https://www.stvincent.edu/'
+    company_logo: SVC-shield-2
+    location: Latrobe, Pennsylvania
+    date_start: '2024-08-01'
+    date_end: ''
+    
   - title: Assistant Professor of Statistics and Business Data Analytics
     company: Saint Vincent College
     company_url: 'https://www.stvincent.edu/'
     company_logo: SVC-shield-2
     location: Latrobe, Pennsylvania
     date_start: '2018-08-01'
-    date_end: ''
+    date_end: '2024-07-31'
 
   - title: Research Assistant
     company: Center for Collegiate Mental Health
