@@ -1,5 +1,5 @@
 ---
-bio: My research interests include functional and longitudinal data analysis, applied statistics, and statistics education.
+bio: My research interests include functional data analysis, longitudinal data analysis, and applied statistics.
 education:
   courses:
   - course: PhD in Statistics
@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Saint Vincent College
   url: https://www.stvincent.edu/
-role: Assistant Professor of Statistics and Business Data Analytics
+role: Associate Professor of Statistics and Business Data Analytics
 social:
 - icon: envelope
   icon_pack: fas
