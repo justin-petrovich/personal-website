@@ -14,7 +14,6 @@ interests:
 - Functional data analysis
 - Longitudinal data analysis
 - Applied statistics
-- Statistics education
 organizations:
 - name: Saint Vincent College
   url: https://www.stvincent.edu/
